@@ -277,7 +277,7 @@ ul { list-style: none; }
 .desk .nome { font-size: 62px; line-height: .95; }
 .desk .sobrenome { font-size: 22px; color: var(--ac); margin-top: 4px; }
 .desk .linha-online { display: flex; align-items: center; gap: 12px; margin: 26px 0 22px; }
-.desk .local { font-size: 15px; color: var(--muted); margin-bottom: 14px; }
+.desk .local { font-size: 15px; color: var(--muted); margin: 28px 0 14px; }
 .desk .chips { margin-bottom: 26px; }
 
 .desk .cena { left: 700px; top: 0; width: 520px; height: 900px; }
