@@ -6,7 +6,7 @@ Xatspace.cliente({
   nome: "Thata",
   sobrenome: "",
   frase: "",
-  local: "Nárnia",
+  local: "",
   gostos: ["Churrasco", "Música", "Cinema"],
   instagram: "",
   online: false,
