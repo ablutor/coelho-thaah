@@ -4,7 +4,7 @@ Xatspace.cliente({
   genero: "f",
 
   nome: "Thata",
-  sobrenome: "zinha",
+  sobrenome: "",
   frase: "",
   local: "Nárnia",
   gostos: ["Churrasco", "Música", "Cinema"],
