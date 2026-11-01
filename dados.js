@@ -9,7 +9,7 @@ Xatspace.cliente({
   local: "Nárnia",
   gostos: ["Churrasco", "Música", "Cinema"],
   instagram: "",
-  online: true,
+  online: false,
 
   fotos: {
     perfil: "perfil.webp"
